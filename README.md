@@ -1,2 +1,2 @@
 # SUCK
-Some Useful Code, Kind of.
+Some Useful Code Kit.
